@@ -1,13 +1,17 @@
-# 🚀 SI UT Hub – Komunitas Mahasiswa Sistem Informasi Universitas Terbuka  
+# 🚀 INSIGHT UT Hub – INformatics Student Innovation & Growth for High-Tech Enthusiasts at UT
 
 ## 📌 Tentang Organisasi
-**SI UT Hub** adalah ruang kolaborasi bagi mahasiswa **Sistem Informasi Universitas Terbuka**!  
-Di sini, kita bisa **berbagi kode, berdiskusi, dan membangun proyek bareng**.  
+INSIGHT UT HUB adalah komunitas mahasiswa Sistem Informasi Universitas Terbuka yang berfokus pada pengembangan teknologi, kolaborasi, dan inovasi. Kami percaya bahwa belajar tidak hanya tentang teori, tetapi juga praktik dan eksplorasi.
 
 ## 💡 Apa yang Bisa Kamu Lakukan?  
-- ✅ Berkontribusi di proyek open source 📂  
-- ✅ Ngobrol & belajar bareng tentang teknologi 🔥  
-- ✅ Ngejalanin side project bareng temen-temen SI UT 🚀  
+- ✅ Berbagi & berkolaborasi dalam proyek open-source 📂
+- ✅ Ngoding bareng dan eksplorasi teknologi terbaru 🔥
+- ✅ Diskusi seru tentang tren IT, software development, dan data 🚀
+- ✅ Membangun jejaring dengan sesama mahasiswa dan profesional 🌍
+
+## Misi & Visi INSIGHT:
+- 🎯 Misi → Membangun ekosistem pembelajaran berbasis komunitas untuk mahasiswa SI UT.
+- 🌎 Visi → Menjadi komunitas mahasiswa Sistem Informasi UT yang aktif dan inovatif di dunia teknologi.
 
 ## 🎯 Gabung & Berkembang Bersama!  
 Ayo jadi bagian dari komunitas ini! Kita belajar, berkembang, dan ngoding bareng.  
