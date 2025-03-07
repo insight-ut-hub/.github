@@ -14,6 +14,6 @@ INSIGHT UT HUB adalah komunitas mahasiswa Sistem Informasi Universitas Terbuka y
 - 🌎 Visi → Menjadi komunitas mahasiswa Sistem Informasi UT yang aktif dan inovatif di dunia teknologi.
 
 ## 🎯 Gabung & Berkembang Bersama!  
-Blajar, berkembang, dan ngoding bareng.  
+Belajar, berkembang, dan ngoding bareng.  
 
 **#KodeBersama #SistemInformasiUT #SIUTHub**
