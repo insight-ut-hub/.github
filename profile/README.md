@@ -37,12 +37,14 @@ DISKUSI TUTON bukan KERJA KELOMPOK, Tapi Kerjakan MANDIRI/SENDIRI. Namun di hala
 - sesi 5 (tugas 2): 12 Mei 2025 - 26 Mei 2025. Deadline pengumpulan tugas : Pukul 15.00 WIB
 - sesi 7 (tugas 3): 26 Mei 2025 - 9 Juni 2025, Deadline pengumpulan tugas : Pukul 15.00 WIB
 
-#### 📌**CATATAN**: Untuk TUGAS TUTON jawaban Rekan 1 kelas tidak terlihat, hanya Pribadi diri sendiri dan TUTOR saja
+#### 📌**CATATAN**: 
+Untuk TUGAS TUTON jawaban Rekan 1 kelas tidak terlihat, hanya Pribadi diri sendiri dan TUTOR saja
 
 ## JADWAL TMK (Tugas Mata kuliah)
 - Tugas 1: 28 April 2025 - 04 Mei 2025, Pukul 15.00 WIB
 - Tugas 2: 12 Mei - 18 Mei 2025, Pukul 15.00 WIB
 - Tugas 3: 26 Mei 2025 - 01 Juni 2025, Pukul 15.00 WIB
 
-#### 📌**CATATAN**: Website TMK bisa di akses di tanggal 28 April 2025
+#### 📌**CATATAN**: 
+Website TMK bisa di akses di tanggal 28 April 2025
 
