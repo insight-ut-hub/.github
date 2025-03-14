@@ -1,4 +1,17 @@
-# 🚀 INSIGHT UT Hub – INformatics Student Innovation & Growth for High-Tech Enthusiasts at UT
+```
+ __                      __            __          __            __    __            __             
+/  |                    /  |          /  |        /  |          /  |  /  |          /  |            
+$$/  _______    _______ $$/   ______  $$ |____   _$$ |_         $$ |  $$ | __    __ $$ |____        
+/  |/       \  /       |/  | /      \ $$      \ / $$   |        $$ |__$$ |/  |  /  |$$      \       
+$$ |$$$$$$$  |/$$$$$$$/ $$ |/$$$$$$  |$$$$$$$  |$$$$$$/         $$    $$ |$$ |  $$ |$$$$$$$  |      
+$$ |$$ |  $$ |$$      \ $$ |$$ |  $$ |$$ |  $$ |  $$ | __       $$$$$$$$ |$$ |  $$ |$$ |  $$ |      
+$$ |$$ |  $$ | $$$$$$  |$$ |$$ \__$$ |$$ |  $$ |  $$ |/  |      $$ |  $$ |$$ \__$$ |$$ |__$$ |      
+$$ |$$ |  $$ |/     $$/ $$ |$$    $$ |$$ |  $$ |  $$  $$/       $$ |  $$ |$$    $$/ $$    $$/       
+$$/ $$/   $$/ $$$$$$$/  $$/  $$$$$$$ |$$/   $$/    $$$$/        $$/   $$/  $$$$$$/  $$$$$$$/        
+                            /  \__$$ |                                                              
+                            $$    $$/                                                               
+                             $$$$$$/
+```
 
 ## 📌 Tentang Organisasi
 INSIGHT UT HUB adalah komunitas mahasiswa Sistem Informasi Universitas Terbuka yang berfokus pada pengembangan teknologi, kolaborasi, dan inovasi. Kami percaya bahwa belajar tidak hanya tentang teori, tetapi juga praktik dan eksplorasi. [Tentang Kami](about-us.md)
